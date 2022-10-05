@@ -17,7 +17,7 @@ entries:
         - name: Jenkins
           url: https://www.jenkins.io/
     apiVersion: v2
-    appVersion: 2.346.3
+    appVersion: 2.361.1
     created: "2022-10-05T08:41:21.138044116Z"
     description: Jenkins - Build great things at any scale! The leading open source
       automation server, Jenkins provides hundreds of plugins to support building,
@@ -44,5 +44,5 @@ entries:
     - https://github.com/jenkinsci/configuration-as-code-plugin
     urls:
     - jenkins-4.1.17.tgz
-    version: 4.1.17
+    version: 4.2.8
 generated: "2022-10-05T08:41:21.131398545Z"
